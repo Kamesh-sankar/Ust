@@ -1,0 +1,3 @@
+[submodule "gitdemo"]
+	path = gitdemo
+	url = https://github.com/coderepository/gitdemo.git
